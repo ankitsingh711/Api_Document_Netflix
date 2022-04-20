@@ -12,7 +12,7 @@
 
 #Details of Movies By Id
 >localhost:9700/movies/2
->https://ankitnetflix.herokuapp.com/movies/Horror
+>https://ankitnetflix.herokuapp.com/movies/2
 
 #List of Tvshows
 >localhost:9700/tvshows
@@ -44,8 +44,8 @@
 
 #List of Movies on the basis of Category
 >localhost:9700/movies/Hollywood
->https://ankitnetflix.herokuapp.com/movies/Horror
+>https://ankitnetflix.herokuapp.com/movies/1
 
 #List of Tvshows on the basis of Category
 >localhost:9700/tvshows/Bollywood
->https://ankitnetflix.herokuapp.com/tvshows/Horror
+>https://ankitnetflix.herokuapp.com/tvshows/2
