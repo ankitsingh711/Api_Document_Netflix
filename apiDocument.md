@@ -4,7 +4,7 @@
 
 #Details of webseries By Id
 >localhost:9700/webseries/2
->https://ankitnetflix.herokuapp.com/webseries/1
+>https://ankitnetflix.herokuapp.com/webseries/Horror
 
 #List of movies
 >localhost:9700/movies
@@ -12,7 +12,7 @@
 
 #Details of Movies By Id
 >localhost:9700/movies/2
->https://ankitnetflix.herokuapp.com/movies/1
+>https://ankitnetflix.herokuapp.com/movies/Horror
 
 #List of Tvshows
 >localhost:9700/tvshows
